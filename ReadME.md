@@ -17,7 +17,7 @@ This is a simple UI clone of Amazon's  using HTML and  CSS  .
 ![Image Screenshot](screenshot\Image.png)
 
 #### Shope Content
-![Shope Screenshot](screenshot\Banner.png)
+![Shope Screenshot](screenshot\Shope.png)
 
 #### Footer
 ![Footer Screenshot](screenshot\Footer.png)
