@@ -8,7 +8,7 @@ This is a simple UI clone of Amazon's  using HTML and  CSS  .
 
 
 #### Header Navbar
-![Header Screenshot](screenshot\header.png)
+![Header Screenshot](screenshot/header.png)
 
 #### Banner Content
 ![Banner Screenshot](screenshot/Banner.png)
